@@ -1,0 +1,31 @@
+* {
+    font-family: Roboto;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul a{
+    color: #E5E7EB;
+    list-style: none;
+}
+.nav-bar {
+    display: flex;
+    gap: 10px;
+}
+
+.header-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+#hero-logo {
+    font-size: 24px;
+    color: #F9FAF8;
+}
+
+.hero-container {
+    display: flex;
+    justify-content: space-between;
+}
